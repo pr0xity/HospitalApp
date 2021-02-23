@@ -2,10 +2,11 @@
 #Vurderingskriterier
 
 Når vi vurderer arbeidskravet “Mappe - Del 1” vektlegger vi følgende momenter:
+
 * Maven:
-    * Er prosjektet et Maven-prosjekt med fornuftige prosjekt-verdier og gyldig
+  * Er prosjektet et Maven-prosjekt med fornuftige prosjekt-verdier og gyldig
 katalogstruktur?
-    * Kan vi kjøre Maven-kommandoer for å bygge, installere og teste uten at det feiler?
+  * Kan vi kjøre Maven-kommandoer for å bygge, installere og teste uten at det feiler?
 * Versjonskontroll med git:
     * Er prosjektet underlagt versjonskontroll med lokalt repo?
     * Er det lokale repoet koblet mot et sentralt repo?

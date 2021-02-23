@@ -8,15 +8,15 @@ artefactId. Prosjektet skal følge JDK v11 eller høyere. Når du svarer på kod
 enhetstester legges i katalogen “test/java”, mens resten av koden hører hjemme i katalogen
 “main/java”. Det skal være mulig å bygge prosjektet og kjøre tester med Maven uten feil.
 
-* Legg så prosjektet under versjonskontroll:
-    * Først legger du prosjektet under lokal versjonskontroll (lokalt repository)
-    * Senere oppretter du et nytt sentralt repo (tomt prosjekt) med samme navn på GitLab/GitHub
+Legg så prosjektet under versjonskontroll:
+* Først legger du prosjektet under lokal versjonskontroll (lokalt repository)
+* Senere oppretter du et nytt sentralt repo (tomt prosjekt) med samme navn på GitLab/GitHub
 (for Ålesund: lag remote repo fra GitHub Classroom når dette blir publisert)
-    * Til slutt kobler du lokalt repo mot sentralt repo (NB! Dere trenger ikke å gjøre dette før
+* Til slutt kobler du lokalt repo mot sentralt repo (NB! Dere trenger ikke å gjøre dette før
 senere i prosjektet)
       
 For hver av oppgavene under skal du gjøre minst én innsjekk (commit) i lokal versjonskontroll, før du
-til slutt laster opp alle endringene til sentralt repo (push).
+til slutt laster opp alle endringene til sentralt repo (push).\
 Vi er nå klare for å skrive litt kode :-)
 
 
@@ -68,5 +68,5 @@ fylle registrene med data (metoden fillRegisterWithTestData er gjengitt under).
 * Kall remove metoden på Department for å fjerne en ansatt
 * Kall remove metoden på Department for å fjerne en pasient som ikke finnes i listen. Bruk trycatch exception blokk for å håndtere situasjonen.
 
-Når du har løst oppgave 5 sjekker du inn endringene i lokal versjonskontroll.
+Når du har løst oppgave 5 sjekker du inn endringene i lokal versjonskontroll.\
 Til slutt pusher du alle lokale endringer til det sentrale repositoriet.
