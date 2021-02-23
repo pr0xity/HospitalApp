@@ -1,4 +1,4 @@
-#Problem statement
+# Problem statement
 Inspiration for the problem is taken from the website of St. Olavs Hospital (https://stolav.no/).
 The model we are going to work with in this assignment is simplified to be adapted to the syllabus and the time frame in
 this submission.

@@ -1,8 +1,8 @@
->This document will be in Norwegian
+>This document will be in Norwegian.
 
 
 
-####Oppgave 1: Maven og Git
+#### Oppgave 1: Maven og Git
 Det første du må gjøre er å opprette et tomt Maven prosjekt. Gi prosjektet en fornuftig groupId og
 artefactId. Prosjektet skal følge JDK v11 eller høyere. Når du svarer på kodeoppgavene under skal
 enhetstester legges i katalogen “test/java”, mens resten av koden hører hjemme i katalogen
@@ -21,7 +21,7 @@ Vi er nå klare for å skrive litt kode :-)
 
 
 
-####Oppgave 2: Implementasjon av personell-klassene
+#### Oppgave 2: Implementasjon av personell-klassene
 I denne oppgaven skal du programmere klassene for personer knyttet til sykehuset. Klassetreet skal
 altså bestå av klassene Person, Employee, Doctor, GeneralPractitioner, Surgeon, Nurse og Patient.
 Klassene «Person» og «Doctor» defineres som abstract da det ikke gir mening å opprette objekter av
@@ -38,14 +38,14 @@ endringer i koden og sjekke inn på nytt, så er det selvfølgelig greit. Kravet
 minst en gang per kodeoppgave.
 
 
-####Oppgave 3: Implementasjon av avdelingene for et sykehus
+#### Oppgave 3: Implementasjon av avdelingene for et sykehus
 Et sykehus har et navn og en liste med Avdelinger (Du kan bruke HashMap, ArrayList… til å lage et
 register). Implementer klassene Hospital og Department. En ansatt eller pasient hører til en avdeling.
 
 Når du har løst oppgaven sjekker du inn endringene i lokal versjonskontroll.
 
 
-####Oppgave 4: Implementasjon av remove-metoden i Department
+#### Oppgave 4: Implementasjon av remove-metoden i Department
 I oppgave 4 skal du implementere en metode kalt remove i klassen Department som fjerner et objekt
 av typen Patient eller Employee.
 
@@ -61,7 +61,7 @@ håndteres på en god måte (negativ testing).
 Til slutt sjekker du inn endringene i lokal versjonskontroll.
 
 
-####Oppgave 5: Implementer klienten HospitalClient
+#### Oppgave 5: Implementer klienten HospitalClient
 Du skal nå lage en enkel klient-klasse for å teste applikasjonen. Implementer disse funksjonene:
 * Lag klienten HospitalClient som bruker HospitalTestData.fillRegisterWithTestData(hospital) til å
 fylle registrene med data (metoden fillRegisterWithTestData er gjengitt under).

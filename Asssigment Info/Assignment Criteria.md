@@ -1,5 +1,8 @@
->This document will be in Norwegian
-#Vurderingskriterier
+>This document will be in Norwegian.
+
+
+ 
+# Vurderingskriterier
 
 Når vi vurderer arbeidskravet “Mappe - Del 1” vektlegger vi følgende momenter:
 
